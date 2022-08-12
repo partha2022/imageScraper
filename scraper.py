@@ -107,7 +107,6 @@ def search_and_download(search_term: str, driver_path: str, target_path='./image
 
 
 DRIVER_PATH = './chromedriver/chromedriver.exe'
-#DRIVER_PATH = "C:\\Users\\PARTHA\\PycharmProjects\\ImageScrapper\\chromedriver\\chromedriver.exe"
 search_term = 'cat'
 # num of images you can pass it from here  by default it's 10 if you are not passing
 number_images = 8
